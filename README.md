@@ -2,7 +2,8 @@
 
 ### 💬 Descrição
 
-Um widget adicionado a sites e aplicações para receber feedback dos usuários, sobre erros ou sugestões.  🚧 Projeto em construção.
+Um widget adicionado a sites e aplicações para receber feedback dos usuários, sobre erros ou sugestões.  
+🚧 Projeto em construção.
 
 ### 💻 Tecnologias
 
