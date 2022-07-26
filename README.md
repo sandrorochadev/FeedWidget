@@ -2,7 +2,7 @@
 
 ### 💬 Descrição
 
-Um widget adicionado a sites e aplicações para receber feedback dos usuários, sobre erros ou sugestões.  
+Um widget adicionado a sites e aplicações para receber feedback dos usuários, sobre erros ou sugestões. Desenvolvido na semana NLW Return, pelo tutor Diego Fernandes.
 🚧 Projeto em construção.
 
 ### 💻 Tecnologias
