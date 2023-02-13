@@ -13,6 +13,8 @@ Em Construção.
 
 ### 📦 Pacotes e dependências
 
-* [express](https://expressjs.com/)
-* [ts-node-dev](https://www.npmjs.com/package/ts-node-dev)
+* [headlessui](https://headlessui.com/)
+* [phosphor-react](https://phosphoricons.com/)
+* [postcss](https://postcss.org/)
+* [autoprefixer](https://autoprefixer.github.io/)
 
