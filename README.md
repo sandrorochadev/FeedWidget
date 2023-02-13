@@ -10,6 +10,7 @@ Em Construção.
 * Vite
 * React
 * Typescript
+* Tailwind CSS
 
 ### 📦 Pacotes e dependências
 
